@@ -1,4 +1,4 @@
-<h1>Project: AI Agent with Web Search and LiteLLM</h1>
+<h1>AI Agent with Web Search and LiteLLM</h1>
 
 - [1. Project Description](#1-project-description)
 - [2. Prerequisites](#2-prerequisites)
@@ -44,7 +44,7 @@ After the container is started, you can access CoreAI at `http://localhost:8888`
 
 The Jupyter Lab password is `iti`.
 
-Load the notebook `ExtractionDocling.ipynb` and follow the instructions contained in it.
+Load the notebook `Agent.ipynb` and follow the instructions contained in it.
 
 # 5. Required Libraries
 
