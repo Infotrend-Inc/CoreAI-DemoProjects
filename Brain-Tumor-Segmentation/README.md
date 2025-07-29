@@ -51,7 +51,8 @@ Load the notebook `Brain-Tumor-Segmentation.ipynb` and follow the instructions c
 # 5. Required libraries
 
 - kagglehub
-- seaborn
+- albumentations
+- segmentation-models-pytorch
 
 All the required libraries are present in the `requirements.txt`
 
