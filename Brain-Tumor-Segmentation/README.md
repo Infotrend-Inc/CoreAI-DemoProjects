@@ -1,4 +1,4 @@
-<h1>Explainable AI</h1>
+<h1>Brain-Tumor-Segmentation</h1>
 
 - [1. Project Details](#1-project-details)
   - [1.1. Description of Project](#11-description-of-project)
@@ -46,7 +46,7 @@ After the container is started, you can access CoreAI at `http://localhost:8888`
 
 The Jupyer Lab password is `iti`.
 
-Load the notebook `Explainable-AI.ipynb` and follow the instructions contained in it.
+Load the notebook `Brain-Tumor-Segmentation.ipynb` and follow the instructions contained in it.
    
 # 5. Required libraries
 
