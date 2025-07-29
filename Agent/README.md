@@ -1,4 +1,4 @@
-<h1>Project: AI Agent with Web Search and LiteLLM</h1>
+<h1>AI Agent with Web Search and LiteLLM</h1>
 
 - [1. Project Description](#1-project-description)
 - [2. Prerequisites](#2-prerequisites)

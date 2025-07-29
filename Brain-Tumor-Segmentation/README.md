@@ -1,4 +1,4 @@
-<h1>Explainable AI</h1>
+<h1>Brain-Tumor-Segmentation</h1>
 
 - [1. Project Details](#1-project-details)
   - [1.1. Description of Project](#11-description-of-project)
@@ -51,7 +51,8 @@ Load the notebook `Brain-Tumor-Segmentation.ipynb` and follow the instructions c
 # 5. Required libraries
 
 - kagglehub
-- seaborn
+- albumentations
+- segmentation-models-pytorch
 
 All the required libraries are present in the `requirements.txt`
 
